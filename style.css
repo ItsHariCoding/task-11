@@ -1,0 +1,33 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    max-width: 500px;
+    border: 1px solid black;
+    padding: 20px;
+
+}
+button{
+    margin-top: 10px;
+    height: 50px;
+    width: 100%;
+    border: none;
+    padding: 5px;
+    color: white;
+    background-color: greenyellow;
+}
+.text{
+    background-color: rgb(138, 151, 151);
+    padding: 7px;
+    margin-bottom:10px;
+}
+.main{
+    width: 99%;
+    height: 50px;
+}
+.button{
+    background-color: rgb(138, 151, 151);;
+    padding:10px;
+}
+.daily{
+ margin-bottom: 20px;
+}
